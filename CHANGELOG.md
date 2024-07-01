@@ -1,5 +1,5 @@
 # Revision history for H99
 
-## 0.1.0.0 -- YYYY-mm-dd
+## 0.1.0.0 -- 2024-07-01
 
-* First version. Released on an unsuspecting world.
+- Solve problems 1 to 6.
